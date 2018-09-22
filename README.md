@@ -10,21 +10,29 @@ This is a script by which you can install Kali nethunter (Kali Linux) in your te
 #  Steps  
 
 
-1 open termux application type commands  
+1. open termux application type commands  
 
-2 pkg install git && pkg update && pkg upgrade && pkg install wget && pkg install curl && pkg install python  
+2. pkg install git && pkg update && pkg upgrade && pkg install wget && pkg install curl && pkg install python  
 
-3 git clone https://github.com/FRANKLINARYANSEN/Nethunter-for-termux.git  
+3. git clone https://github.com/FRANKLINARYANSEN/Nethunter-for-termux.git  
 
-4 cd Nethunter-for-termux  
+4. cd Nethunter-for-termux  
 
-5 chmod +x kalinethunter  
+5. chmod +x kalinethunter  
 
-6 ./kalinethunter # after installing nethunter type command   
+6. ./kalinethunter   
 
-#  AFTER INSTALLING TYPE
+now open playstore and search for [ MY DEVICE ] , and install it .
+NOW OPEN { MY DEVICE APP } AND SWIPE RIGHT SIDE AND GO TO CPU , YOU WILL OBSERVE YOUR BIT (ARM/ARRCH32/ARM/ARRCH64)
+NOW SELCECT YOUR BIT BY TYPING THERE NO..
 
-7 ./startkali.sh
+
+
+#  AFTER INSTALLING TYPE COMMAND - 
+
+7. ls
+
+8. ./startkali.sh
 
 
 # THANK YOU !!
